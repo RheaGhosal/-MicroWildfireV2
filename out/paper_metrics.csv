@@ -1,0 +1,4 @@
+Model,AUROC (test)
+CNN (ResNet-18),0.898
+Random Forest,0.894
+LSTM,0.774
